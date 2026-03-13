@@ -7,7 +7,8 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 public class EmployeeManagementApplication {
 
 	public static void main(String[] args) {
-		System.out.println("first line after sts after git");
+		System.out.println("first line in sts after git");
+		System.out.println("Second line in sts after git");
 		SpringApplication.run(EmployeeManagementApplication.class, args);
 	}
 
